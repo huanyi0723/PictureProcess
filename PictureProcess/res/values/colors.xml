@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- LeftMenu. -->
+    <color name="leftmenu_bg_half">#EEF6F6F6</color>
+    <color name="leftmenu_bg">#F6F6F6</color>
+    <color name="leftmenu_topthread_color">#F29133</color>
+    <color name="leftmenu_username_color">#4C4C4C</color>
+    <color name="leftmenu_text_color_half">#565656</color>
+     <color name="leftmenu_text_color">#B1AFAA</color> 
+    <color name="leftmenu_select_on_color">#F88F32</color>
+    
+    <!-- MyProfile_edit. -->
+    <color name="myprofile_edit_thread_color">#DFDFDF</color>
+    <color name="myprofile_edit_text_color">#B5B4B4</color>
+    <color name="myprofile_edit_infotext_color">#FAAB66</color>
+    <color name="myprofile_edit_savetext_color">#909090</color>
+    
+    <!-- Fragment_Contacts -->
+    <color name="fragment_contacts_listcell_thread_color">#DBDBDB</color>
+    <color name="fragment_contacts_pop_text_color">#8f8f8f</color>
+    
+    
+    <!-- Fragment_Chats -->
+    <color name="fragment_chats_listcell_textname_color">#323232</color>
+     <color name="fragment_chats_listcell_textinfo_color">#7c7c7c</color>
+     
+     <!-- Fragment_ChatRoom -->
+     <color name="fragment_room_bottom_bg_color">#F7F7F7</color>
+     <color name="fragment_room_bottom_thread_color">#9d9d9d</color>
+     
+     <!-- MyProfile. -->
+    <color name="fragment_myprofile_details_listcell01_score_textcolor">#9DCB2D</color>
+    <color name="fragment_myprofile_nophotos_textcolor">#A3A3A3</color>
+    
+    
+    <!-- Normal. -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_half_aphla">#66000000</color>
+    <color name="nullcolor">#00FFFFFF</color>
+    <color name="normal_click_color">#d0cfcf</color>
+    <color name="skyblue_color">#c2eeff</color>
+    <color name="dialog_thread_color">#0099cc</color>
+    <color name="picture_bar_bg">#AA414141</color>
+    <color name="white_half_aphla">#7f000000</color>
+    
+    <color name="progressdrawable_color">#f86300</color>
+    <color name="dialog_button_color">#f3f3f3</color>
+    <color name="dialog_button_layout_color">#e8e8e8</color>
+    
+    <color name="explore_listcell_backview_color02">#55c32b</color>
+    <color name="explore_listcell_backview_color01">#fe9104</color>
+    <color name="explore_listcell_backview_color02_click">#8fbf06</color>
+    <color name="explore_listcell_backview_color01_click">#e03636</color>
+    
+     <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+    
+    <color name="task_to_complete_txtcolor">#fff36747</color>
+    
+    <color name="profile_signature_bg_color">#ffededee</color>
+    <color name="profile_top_task_layout_bg_color">#ffd2bca9</color>
+    <color name="profile_top_task_layout_bg_color_01">#fffedca6</color>
+    
+</resources>
